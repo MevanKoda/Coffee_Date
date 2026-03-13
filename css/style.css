@@ -17,6 +17,12 @@
     justify-content: center;
 }
 
+.image-container img{
+    height:250px;
+    width:250px;
+    border-radius: 30px;
+}
+
 
 .box{
     display:flex;
@@ -33,7 +39,7 @@
 }
 .box button{
 
-    width:35%;
+    width:50%;
     border:none;
     background-color: rgb(249, 96, 122);
     padding:20px;
